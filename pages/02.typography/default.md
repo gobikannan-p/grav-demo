@@ -14,7 +14,7 @@ The [Quark theme](https://github.com/getgrav/grav-theme-quark) is the new defaul
 
 ### H3 Heading `28px`
 
-#### H4 Heading `24px`
+#### H4 Heading 4 `24px`
 
 ##### H5 Heading `20px`
 
