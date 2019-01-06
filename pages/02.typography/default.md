@@ -3,7 +3,7 @@ title: Typography
 ---
 
 ! Details on the full capabilities of Spectre.css can be found in the [Official Spectre Documentation](https://picturepan2.github.io/spectre/elements.html)
-
+Hey Its working
 The [Quark theme](https://github.com/getgrav/grav-theme-quark) is the new default theme for Grav built with [Spectre.css](https://picturepan2.github.io/spectre/) the lightweight, responsive and modern CSS framework. Spectre provides  basic styles for typography, elements, and a responsive layout system that utilizes best practices and consistent language design.
 
 ### Headings
@@ -14,7 +14,7 @@ The [Quark theme](https://github.com/getgrav/grav-theme-quark) is the new defaul
 
 ### H3 Heading `28px`
 
-#### H4 Heading 4 `24px`
+#### H4 Heading `24px`
 
 ##### H5 Heading `20px`
 
